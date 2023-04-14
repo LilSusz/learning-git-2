@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+ body {
+    margin: 10px auto;
+    font-family: 'Gideon Roman', cursive;
+    font-size: 14px;
+    background-color: azure;
+ }
+
+ .container h1, h3 {
+    padding: 10px 0;
+ }
+
+.container {
+    padding: 20px;
+    max-width: 320px;
+    width: 80%;
+    margin: 20px auto;
+}
+
+.container p {
+    padding: 10px 0;
+}
+
+.container span {
+    font-style: italic;
+}
