@@ -2,11 +2,26 @@
     padding: 0;
     margin: 0;
 }
+
  body {
     margin: 10px auto;
     font-family: 'Gideon Roman', cursive;
     font-size: 14px;
     background-color: azure;
+ }
+
+ .navigation {
+    margin: 0;
+    padding: 0;
+ }
+
+ .navigation ul li {
+    display: inline-block;
+    margin: 0 16px;
+ }
+
+ .navigation ul li a {
+    text-decoration: none;
  }
 
  .container h1, h3 {
