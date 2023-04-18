@@ -1,0 +1,13 @@
+lila:~/Projects/learning-git-2$ npm exec html-validate index.html
+
+/home/lila/Projects/learning-git-2/index.html
+   7:102  error  Trailing whitespace  no-trailing-whitespace
+  10:8    error  Trailing whitespace  no-trailing-whitespace
+
+✖ 2 problems (2 errors, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/no-trailing-whitespace.html
+
+lila:~/Projects/learning-git-2$ npm exec html-validate index.html
+lila:~/Projects/learning-git-2$ 
